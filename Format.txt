@@ -1,0 +1,2 @@
+Format --> 1st line: # of tasks
+Other lines: bus line ID, origin, destination, start time (hour), start time (minutes), duration (minutes), vehicle ID
